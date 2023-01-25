@@ -12,7 +12,7 @@ const text4 = 'At jointure ladyship an insisted so humanity he. Friendly bachelo
 
 const WhatGPT3 = () => {
     return (
-        <div className='gpt3__whatgpt3 section__margin'>
+        <div className='gpt3__whatgpt3' id='wgpt3'>
             <div className="gpt3__whatgpt3-feature">
                 <Feature
                     title='What is GPT-3' text={text1} />
